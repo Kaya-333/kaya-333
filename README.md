@@ -1,5 +1,4 @@
 ### Hey there! 👋
-Welcome aboard the tech journey with Kaya-333! 🚀
 
 💻 Currently, I'm lost in the world of coding awesomeness, cooking up a genius project: imagine, a TikTok video magician that whips up professionally edited videos with just a sprinkle of code.
 
